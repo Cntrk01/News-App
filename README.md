@@ -9,6 +9,7 @@
 
 5)Swipe ile rooma kayıt edilenleri kaydırma işlemi ile silmeyi sağladık.Snackbardan da geri alma işlemini ekledim.Silinen veriyi tekrar kayıt ettik.
 
+6)Navigation ve safe args kullanılarak ekranlar arası geçiş ve veri taşıma işlemlerini gerçekleştirdim.
 
 
 ![Ekran Görüntüsü (162)](https://github.com/Cntrk01/News-App/assets/98031686/6b176a30-8d80-484a-80a1-b5004037a2ec)

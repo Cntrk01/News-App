@@ -1,8 +1,12 @@
 # News-App
 1)Room ile kullanıcının istediği haberleri lokal veritabanına kayıt etmesini sağladık.Kontroller de sağladık ki kullanıcı eklediği bir haberi birdaha eklemesin gibi.Bunu yaparken apiden gelen idler null döndürdüğü için bende haberlerin url'ini check ettim böylelikle işlem başarıyla çalıştı
+
 2)Retrofit ile internetten veri çektik,
+
 3)Okhttp ile apiden gelen verileri loglayarak takip etmeyi sağladık
+
 4)Hilt ile bağımlılıklar aracılığıyla projeyi ilerlerttim,
+
 5)Swipe ile rooma kayıt edilenleri kaydırma işlemi ile silmeyi sağladık.Snackbardan da geri alma işlemini ekledim.Silinen veriyi tekrar kayıt ettik.
 
 
